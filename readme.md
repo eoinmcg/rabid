@@ -1,6 +1,4 @@
-# Game Title
-
-Rabid Rabbits
+# Rabid Rabbits
 
 ![Banner](https://raw.githubusercontent.com/eoinmcg/rabid/refs/heads/main/promo/large_banner.png)
 
