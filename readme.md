@@ -2,8 +2,9 @@
 
 Rabid Rabbits
 
+![Banner](https://raw.githubusercontent.com/eoinmcg/rabid/refs/heads/main/promo/large_banner.png)
+
 [Play](https://eoinmcgrath.com/rabid)
- ![Banner](https://raw.githubusercontent.com/eoinmcg/rabid/refs/heads/main/promo/large_banner.png)
 
 ## About
 
